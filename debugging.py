@@ -51,6 +51,11 @@
 # 	print ("NavGurukul")
 # 	counter = counter + 1
 # print ("Yeh sirf ek baar print hoga")
+
+#############
+#python code
+#############
+
 name="shivam"
 if name=="rishib":
 	print('rishib has given black jacket')
